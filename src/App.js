@@ -25,6 +25,7 @@ function App() {
   const [voted, setVoted] = useState(false);
   const [selectedOption, setSelectedOption] = useState(null);
   const [darkMode] = useState(false);
+  const setDarkMode = true;
   const [helpModal, setHelpModal] = useState(false);
   const [tooltipVisible, setTooltipVisible] = useState(false);
   const handleConnectWallet = () => {
