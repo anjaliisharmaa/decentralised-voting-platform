@@ -173,7 +173,7 @@ function App() {
 
       <footer className="footer">
         <p>Built with caffeine and code by Anjali Sharma</p>
-        <a href="https://github.com/your-repo" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+        <a href="https://github.com/anjaliisharmaa/decentralised-voting-platform" target="_blank" rel="noopener noreferrer">View on GitHub</a>
       </footer>
 
       <div className="App">
